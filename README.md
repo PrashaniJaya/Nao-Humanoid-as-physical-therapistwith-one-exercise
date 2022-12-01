@@ -10,3 +10,5 @@ The project using NLP and machine learning alogorithms to design the mechanism. 
 The code is written in python 2.7 as the Nao's fucntional capabilities only have python 2.7. 
 
 This project is related to the following thesis: https://urn.fi/URN:NBN:fi-fe2021121761243
+
+ZIP File contains - further implementation of exercises & code optimization
